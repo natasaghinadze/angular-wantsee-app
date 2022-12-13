@@ -1,0 +1,7 @@
+.collapse{
+    display: flex;
+    justify-content: flex-end;
+}
+.form-inline{
+    display: flex;
+}

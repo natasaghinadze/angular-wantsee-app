@@ -15,6 +15,7 @@ import { Navigationmodule } from './navigation/navigation.module';
     AppRoutingModule,
     CoreModule,
     Navigationmodule
+    
   ],
   providers: [],
   bootstrap: [AppComponent]
