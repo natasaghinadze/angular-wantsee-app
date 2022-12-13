@@ -1,7 +1,17 @@
-.collapse{
+.collapse {
     display: flex;
     justify-content: flex-end;
 }
-.form-inline{
+
+.form-inline {
     display: flex;
+}
+
+.menu-contant {
+    display: none;
+    position: absolute;
+}
+
+.dropdown:hover .menu-contant {
+    display: block;
 }
