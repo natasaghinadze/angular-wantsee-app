@@ -10,6 +10,7 @@ import { CountriesComponent } from './pages/countries/countries.component';
 import { PlacesComponent } from './pages/places/places.component';
 import { JournalComponent } from './pages/journal/journal.component';
 import { TraditionalEventsComponent } from './pages/traditional-events/traditional-events.component';
+import { GermanyComponent } from './pages/countries/germany/germany.component';
 
 @NgModule({
   declarations: [
@@ -19,6 +20,7 @@ import { TraditionalEventsComponent } from './pages/traditional-events/tradition
     PlacesComponent,
     JournalComponent,
     TraditionalEventsComponent,
+    GermanyComponent,
   ],
   imports: [
     BrowserModule,

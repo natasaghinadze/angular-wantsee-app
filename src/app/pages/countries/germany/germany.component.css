@@ -1,0 +1,25 @@
+.section-1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    max-width: 1500px;
+    width: 100%;
+    margin: auto;
+}
+
+/* ეს არ მჭირდება დროებითია */
+.section-1>div {
+    width: 100%;
+    height: auto;
+}
+
+h2 {
+    font-size: 46px;
+}
+
+span {
+    color: #f40045;
+    font-size: 46px;
+    text-align: left;
+    line-height: 1.3
+}
